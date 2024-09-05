@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tapaswi-v-s.tapaswi-v-s)
+
 # Hello World! I'm [Tapaswi Satyapanthi](https://www.linkedin.com/in/tapaswi-v-s/)
 
 
