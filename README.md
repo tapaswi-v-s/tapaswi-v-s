@@ -37,7 +37,9 @@ To blend my software engineering skills with the power of LLMs and advanced mode
 
 ## LLM Projects - Surfing the AI Wave
 - [SQL-Agent](https://github.com/tapaswi-v-s/SQL-Agent): An Agentic Chatbot to Interact with a relational Database in a natural language.
+
 - [AWSage](https://github.com/tapaswi-v-s/awsage): A transformed way to interact with FAQs. RAG Chatbot with Web-Search functionality built using [Amazon Compute FAQs](https://aws.amazon.com/ec2/faqs/).
+
 - [WaLL-E](): A personalized assistant that leverages your resume to share information about you—an impressive addition to any personal portfolio website!
 
 ## Traditional ML Ventures - Balancing on the AI Surfboard
